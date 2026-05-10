@@ -43,7 +43,9 @@ mental-health-stress-monitoring-nlp/
 ```
 
 ## Screenshots
-(Add screenshots here)
-
+![Interface](screenshots/confusion_matrix.png)
+![Interface](screenshots/precision_recall_f1score.png)
+![Interface](screenshots/streamlit_app.png)
+![Interface](screenshots/system_architecture.png)
 ## Disclaimer
 This project is intended for educational and early awareness purposes only and is not a medical diagnostic system.
